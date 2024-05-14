@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "email": "12@mail.com",
+      "password": "$2a$10$zg6bKpjzZE7RK6xH40MdzOlb3h.R0rsT2jiAVyLQMZmFGAEU4J1Ga",
+      "id": 1
+    },
+    {
+      "email": "m@g.com",
+      "password": "$2a$10$dqksirCaveTe.n23eL6dwuhmHxqjKTAf/L9lRn0/OUcEqefYf5TuK",
+      "id": 2
+    },
+    {
+      "email": "w@g.com",
+      "password": "$2a$10$LuckHs/8aXIs9jb5A9WKIe3ycW33xCuQo8/dfS.Y92XwZSFYRy5s.",
+      "tipo": "admin",
+      "edad": "23",
+      "id": 3
+    },
+    {
+      "email": "A@G.COM",
+      "password": "$2a$10$jEYDYovnhAA6twceJ0MkbOOhVbMK12W/1D.n5IYaM.KaBF8/YkA9e",
+      "tipo": "ADMIN",
+      "edad": "20",
+      "genero": "F",
+      "id": 4
+    },
+    {
+      "email": "h@g.com",
+      "password": "$2a$10$jxElwawqEhxK.VlD.Ln8NepsTu1M8TIPeaqBi8p6uoTv9monEqFT.",
+      "tipo": "admin",
+      "edad": "34",
+      "genero": "s",
+      "id": 5
+    }
+  ]
+}
